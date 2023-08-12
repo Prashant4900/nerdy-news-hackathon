@@ -1,0 +1,68 @@
+[
+  {
+    "id": null,
+    "news_id": 7565,
+    "title": "New E-Sports Anime: Our Rainy Protocol Announced",
+    "description": "The anime is set to premiere in October 2023.",
+    "source": "https://www.animeexplained.com/news/new-e-sports-anime-our-rainy-protocol-announced/",
+    "thumbnail": "https://www.animeexplained.com/wp-content/uploads/2023/07/Our-rainy-protocol1-e1688820598155.jpeg",
+    "published_at": "2023-07-08T07:20:19.000Z",
+    "publisher_id": {
+      "id": null,
+      "name": "Anime Explained, domain: https://www.animeexplained.com/, icon: https://www.animeexplained.com/wp-content/uploads/2022/11/cropped-favicon-180x180.png",
+      "created_at": null,
+      "updated_at": null
+    }
+  },
+  {
+    "id": null,
+    "news_id": 7569,
+    "title": "Link Click Season 2 Opening Revealed!",
+    "description": "The opening song is titled “VORTEX”",
+    "source": "https://www.animeexplained.com/news/link-click-season-2-opening-revealed/",
+    "thumbnail": "https://www.animeexplained.com/wp-content/uploads/2023/07/link-click-season-2-featured-e1688821730699.webp",
+    "published_at": "2023-07-08T07:39:10.000Z",
+    "publisher_id": {
+      "id": null,
+      "name": "Anime Explained",
+      "domain": "https://www.animeexplained.com/",
+      "icon": "https://www.animeexplained.com/wp-content/uploads/2022/11/cropped-favicon-180x180.png",
+      "created_at": null,
+      "updated_at": null
+    }
+  },
+  {
+    "id": null,
+    "news_id": 7569,
+    "title": "Link Click Season 2 Opening Revealed!",
+    "description": "The opening song is titled “VORTEX”. \n",
+    "source": "https://www.animeexplained.com/news/link-click-season-2-opening-revealed/",
+    "thumbnail": "https://www.animeexplained.com/wp-content/uploads/2023/07/link-click-season-2-featured-e1688821730699.webp",
+    "published_at": "2023-07-08T07:39:10.000Z",
+    "publisher_id": {
+      "id": null,
+      "name": "Anime Explained",
+      "domain": "https://www.animeexplained.com/",
+      "icon": "https://www.animeexplained.com/wp-content/uploads/2022/11/cropped-favicon-180x180.png",
+      "created_at": null,
+      "updated_at": null
+    }
+  },
+  {
+    "id": null,
+    "news_id": 63066,
+    "title": "Who Are The House Atreides In Dune, The Descendants of King Agamemnon",
+    "description": "The House Atreides is one of the noble families in the universe of Frank Herbert’s novel Dune. This caste enjoys excellent popularity within the Empire due to the charisma of its Duke, Leto Atreides. The […]\n",
+    "source": "https://comicyears.com/movies/who-are-the-house-atreides-in-dune-the-descendants-of-king-agamemnon/",
+    "thumbnail": "https://comicyears.com/wp-content/uploads/2023/07/The-House-Atreides.jpeg",
+    "published_at": "2023-07-08T07:36:31.000Z",
+    "publisher_id": {
+      "id": null,
+      "name": "Comics Years",
+      "domain": "https://comicyears.com/",
+      "icon": "https://comicyears.com/wp-content/uploads/2021/11/icon.png",
+      "created_at": null,
+      "updated_at": null
+    }
+  }
+]
