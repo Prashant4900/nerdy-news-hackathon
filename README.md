@@ -108,7 +108,13 @@ Immerse yourself in a universe where everything nerdy converges into one sleek a
 
 ## Demo
 
-Check out our [demo](https://www.youtube.com/) to see Nerdy News in action! Experience the thrill of being in the geek culture loop with just a few taps.
+Check out our [demo](https://www.youtube.com/watch?v=Tr10YKppJzk) to see Nerdy News in action! Experience the thrill of being in the geek culture loop with just a few taps.
+
+## Admin
+
+Url: https://nerdy-news-admin.onrender.com/admin/
+Email: admin@gmail.com
+Password: Dummy@123
 
 
 ## How to Contribute
