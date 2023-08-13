@@ -108,7 +108,7 @@ Immerse yourself in a universe where everything nerdy converges into one sleek a
 
 ## Demo
 
-Check out our [demo](https://www.youtube.com/watch?v=Tr10YKppJzk) to see Nerdy News in action! Experience the thrill of being in the geek culture loop with just a few taps.
+Check out our [demo](https://www.youtube.com/watch?v=Tr10YKppJzk) [apk](https://drive.google.com/file/d/1rw-r4NTHcUIVYAAKuFo13gH53phG9BSN/view?usp=drivesdk) to see Nerdy News in action! Experience the thrill of being in the geek culture loop with just a few taps.
 
 ## Admin
 
